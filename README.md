@@ -41,3 +41,10 @@ O grande diferencial deste projeto é o uso do **SQLite3**, garantindo que os da
    ```bash
    git clone [https://github.com/CFSC3/FurStock.git](https://github.com/CFSC3/FurStock.git)
    
+2. Acesse a pasta do projeto:
+   ```bash
+   cd FurStock
+
+3. Execute a aplicação:
+   ```bash
+   python main.py
